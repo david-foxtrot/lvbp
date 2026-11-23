@@ -1,0 +1,28 @@
+[
+  {
+    "gamePk": 869967,
+    "date": "2026-11-23T23:00:00Z",
+    "status": "Pre-Game",
+    "venue": "Estadio Universitario",
+    "away": {
+      "id": 693,
+      "name": "Cardenales de Lara",
+      "abbreviation": "LAR",
+      "location": "Barquisimeto",
+      "teamName": "Cardenales",
+      "score": 0,
+      "wins": 16,
+      "losses": 14
+    },
+    "home": {
+      "id": 698,
+      "name": "Tiburones de La Guaira",
+      "abbreviation": "LAG",
+      "location": "Caracas",
+      "teamName": "Tiburones",
+      "score": 0,
+      "wins": 14,
+      "losses": 18
+    }
+  }
+]

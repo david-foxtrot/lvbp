@@ -1,0 +1,1 @@
+{"bin":{"fetch-lvbp":"fetch-lvbp.js"},"description":"Fetch the Venezuelan Professional Baseball League (LVBP). No API key, no dependencies.","engines":{"node":">=18"},"license":"MIT","main":"fetch-lvbp.js","name":"lvbp","scripts":{"standings":"node fetch-lvbp.js standings","teams":"node fetch-lvbp.js teams","today":"node fetch-lvbp.js today"},"type":"module","version":"1.0.0"}
